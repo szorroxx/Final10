@@ -14,7 +14,7 @@ Description and links used:
   
   Jared Young: Pavement Markings - https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
 
-                Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
+  Jared Young: Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
   
   Yundi Zhang: Traffic Signs - https://data.wprdc.org/dataset/city-traffic-signs
   
