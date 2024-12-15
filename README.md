@@ -2,21 +2,21 @@ Team name: Bike Bros
 
 Member names and emails: 
 
-  Conner Killmeyer cok76@pitt.edu
+  Conner Killmeyer cok76@pitt.edu: speedBumps folder
   
-  Jared Young jjy23@pitt.edu
+  Jared Young jjy23@pitt.edu: Final folder
   
-  Yundi Zhang yuz391@pitt.edu
+  Yundi Zhang yuz391@pitt.edu: final yundi.ipynb and city_traffic_signs.csv
 
 Description and links used:
   
-  Conner Killmeyer: Speed Bump dataset - https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
+  Speed Bump dataset - https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
   
-  Jared Young: Pavement Markings - https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
+  Pavement Markings - https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
 
-  Jared Young: Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
+  Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
   
-  Yundi Zhang: Traffic Signs - https://data.wprdc.org/dataset/city-traffic-signs
+  Traffic Signs - https://data.wprdc.org/dataset/city-traffic-signs
   
 
 Overview:
