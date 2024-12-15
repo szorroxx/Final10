@@ -10,13 +10,13 @@ Member names and emails:
 
 Description and links used:
   
-  Speed Bump dataset - https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
+  Conner Killmeyer: Speed Bump dataset - https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
   
-  Pavement Markings - https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
+  Jared Young: Pavement Markings - https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
 
-  Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
+                Neighborhood Names - https://data.wprdc.org/dataset/neighborhoods2
   
-  Traffic Signs - https://data.wprdc.org/dataset/city-traffic-signs
+  Yundi Zhang: Traffic Signs - https://data.wprdc.org/dataset/city-traffic-signs
   
 
 Overview:
